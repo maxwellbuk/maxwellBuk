@@ -8,12 +8,12 @@
 <h3>💫 Какие языки я знаю?</h3>
 
 ```python
-languages = ["python", "javascript", "java_50%"]
+languages = ["python", "javascript", "java", "lua"]
 ```
-<h3>👉 Какие проекты для Илона Маска я создал:</h3>
+<h3>👉 Какие проекты сейчас в разработке:</h3>
 
 ```python
 projects = {
-    None: None
+    "VavilovEngine": "Minecraft движок, позволяющий создавать усовершенствованные приключенческие карты"
 }
 ```
